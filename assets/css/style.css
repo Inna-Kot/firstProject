@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+    background-image: url(/baby-and-toys.jpg);
+    background-color: rgba(247, 221, 198, 0.966);
+    background-position: center;
+    background-size: cover;
+}
