@@ -1,7 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     min-height: 100vh;
     background-image: url(/baby-and-toys.jpg);
-    background-color: rgba(247, 221, 198, 0.966);
+    background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
+}
+
+header {
+    background-color: #fff;
+    margin: 3px 5px;
+    padding: 4px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    
+    width: 100%;
+    z-index: 99;
+   /* box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    */
+
+}
+#menu {
+    list-style-type: none;
 }
