@@ -4,6 +4,7 @@
 }
 body {
     min-height: 100vh;
+    height: 600px;
     background-image: url(/baby-and-toys.jpg);
     background-color: #BFB1A8;
     background-position: center;
@@ -12,22 +13,28 @@ body {
 
 header {
     background-color: rgba(248, 232, 214, 0.58);
-    margin: 3px 5px;
-    padding: 4px;
-    position: fixed;     
+    margin-top: 6px;
+    padding: 6px;
+    position: fixed;   
+    top: 0; /*ASK why there's space on the left of a header and NO space on the right? width 100% doesnt work.*/
+    left: 0;  
     width: 100%;
     z-index: 99;
     box-shadow: 0 1px 2px #635b5b;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px);
     border-radius: 3px;
-     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-
+}
+h1 {
+    text-align: center;
 }
 #menu {
     list-style-type: none;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   /*need to make a list centered*/
     
 }
 a {
