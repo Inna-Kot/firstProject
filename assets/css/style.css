@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
     min-height: 100vh;
@@ -9,6 +10,12 @@ body {
     background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+    margin-top: 160px;
 }
 
 header {
@@ -17,7 +24,7 @@ header {
     padding: 6px;
     padding-bottom: 10px;
     position: fixed;   
-    top: 0; /*ASK why there's space on the left of a header and NO space on the right? width 100% doesnt work.*/
+    top: 0; 
     left: 0;  
     width: 100%;
     z-index: 99;
