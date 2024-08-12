@@ -13,7 +13,7 @@ This website was created to help families, parents, and guardians in the physica
     2. GitHub. GitHub is used to store the projects code after being pushed from Git.
     3. Google Fonts. Google Fonts was used to import 'Lato', 'Oswald', 'Platypi' fonts into the style.css file which is used on all pages throughout the project.
     4. Hover.css. Hover.css was used on all external and internal links to make the website more interactive
-    5. YouTube. Youtube was used to find inspiration and 
+    5. YouTube. Youtube was used to find inspiration and new interesting technologies that can be added to the site design. In particular added backdrop-filter: blur to Header to make it background look more interesting.
 
 # User Experience (UX)
 ## User Stories
@@ -27,3 +27,13 @@ This website was created to help families, parents, and guardians in the physica
         3.1. As a Frequent User, I want to check if there are any new information/ challenges or any updated news
         3.2. As a Frequent User, I want to subscribe to the website's news, updates and any changes they will have
 ## DESIGN
+    1. Favicon. Favicon was created with this website [favicomatic](https://favicomatic.com/) 
+    and photo for favicon was chosen here [vector4free](https://www.vector4free.com/)    
+    2. CONTENT. All content was writted by the developer
+    3. MEDIA. (write this part!!)
+
+## Acknowledgements
+    1. My Mentor at Code Institute for helpful feedback.
+    2. Tutor support at Code Institute for their support at all stages
+
+    
