@@ -12,7 +12,7 @@ body {
     height: 600px;
     display: flex;
     flex-direction: column;
-    font-family: 'Lato' sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 #about-us {
     background-image: url(../images/baby-and-toys.jpg);
