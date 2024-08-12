@@ -21,13 +21,13 @@ body {
     background-size: cover;
   }
 #kids-exercising {
-    background-image: url(../images/kids-exercising.jpg);
+    background-image: url(../images/exercising.jpg);
     background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
 }
 #subscribe {
-    background-image: url(../images/subscribe.jpg);
+    background-image: url(../images/subscribe1.jpg);
     background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
@@ -37,20 +37,17 @@ main {
     flex: 1 0 auto;
     margin-top: 160px;
 }
-
-header {
+ header {
     background-color: rgba(248, 232, 214, 0.58);
-    margin-top: 6px;
-    padding: 6px;
-    padding-bottom: 10px;
+    padding: 0 1rem;
     position: fixed;   
+    margin-top: 6px;
     top: 0; 
+    z-index: 99;
     left: 0;  
     width: 100%;
-    z-index: 99;
     box-shadow: 0 1px 2px #635b5b;
     backdrop-filter: blur(2px); 
-    border-radius: 3px;
     
 }
 h1 {
@@ -60,6 +57,7 @@ h1 {
     color: #180101;
 
 }
+
 #menu {
     list-style-type: none;
     margin: 0 10px;
