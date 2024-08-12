@@ -35,7 +35,7 @@ body {
 main {
     /* Make main element take up any surplus space to push footer down. */
     flex: 1 0 auto;
-    margin-top: 160px;
+    margin-top: 100px;
 }
  header {
     background-color: rgba(248, 232, 214, 0.58);
@@ -108,16 +108,21 @@ a {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 20px;
+        padding: 10px;
     }
     h1 {
-        font-size: 45px;
+        font-size: 40px;
     }
     nav ul li {
         font-size: 30px; 
+        padding: 0 10px;
     }
     #li-first:hover, #li-second:hover, #li-third:hover {
         font-size: 35px;
         font-weight: bold;
        }
+    main {
+        margin-top: 130px;
+    }
+    
 }
