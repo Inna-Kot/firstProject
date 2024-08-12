@@ -92,6 +92,17 @@ h1 {
        
 }
  
+#footer-container {
+    text-align: center;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.social-icons i {
+    font-size: 140%;
+    padding: 3%;
+}
 a {
     color: black;
     text-decoration: none;
@@ -130,5 +141,13 @@ a {
    }
    nav {
      justify-content: flex-end;
+}
+#footer-container {
+    justify-content: center;
+    
+}
+.social-icons i {
+    padding: 0 35px;
+
 }
 }
