@@ -1,5 +1,6 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
 
 * {
     margin: 0;
@@ -9,12 +10,27 @@
 body {
     min-height: 100vh;
     height: 600px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lato' sans-serif;
+}
+#about-us {
     background-image: url(../images/baby-and-toys.jpg);
     background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
-    display: flex;
-    flex-direction: column;
+  }
+#kids-exercising {
+    background-image: url(../images/kids-exercising.jpg);
+    background-color: #BFB1A8;
+    background-position: center;
+    background-size: cover;
+}
+#subscribe {
+    background-image: url(../images/subscribe.jpg);
+    background-color: #BFB1A8;
+    background-position: center;
+    background-size: cover;
 }
 main {
     /* Make main element take up any surplus space to push footer down. */
@@ -33,7 +49,7 @@ header {
     width: 100%;
     z-index: 99;
     box-shadow: 0 1px 2px #635b5b;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px); 
     border-radius: 3px;
     
 }
@@ -47,8 +63,7 @@ h1 {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-   /*need to make a list centered*/
-    
+       
 }
 #li-first:hover {
     font-size: larger;
@@ -63,4 +78,7 @@ h1 {
 a {
     color: black;
     text-decoration: none;
+}
+.active {
+    border-bottom: 1px solid grey;
 }
