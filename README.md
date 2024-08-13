@@ -2,7 +2,20 @@
 
 Welcome! [Code Institute](http://codeinstitute.net) 
 
-This website was created to help families, parents, and guardians in the physical development of children at home.
+This website was created to help families, parents, and guardians in the physical development of children at home. It provides simple exercises for ages from 1 year old.
+
+Users of this website will be able to find information about why it is so impirtant to develop children physically and what is the positive effect of physical exercises on the child's body. There is also a subscribe form in order to have access to updates that will take place on the site. The site is responsive for all screen sizes.
+
+![Screenshot of the websites homepage on different devices](assets/images/all-devices.png) 
+
+## Features
+## Navigation Bar and Header
+    1. Featured at the top of all three pages, the navigation links are situated to the right. 
+    2. At the top left in the header section, there is a name of a company, that will take the user to the home page when clicked.
+    3. On smaller screens, such as mobiles, the navigation links are centered.
+
+![Screenshot of the header containing company logo and navigation bar](/assets/images/small-nav.png)
+![Screenshot of the header containing company logo and navigation bar](/assets/images/big-nav.png)
 
 # Technologies Used
 ## Languages Used
@@ -53,3 +66,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         
     
+
+
+[def]: ss/images/all-devices.pn
