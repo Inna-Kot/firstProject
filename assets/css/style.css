@@ -321,6 +321,22 @@ a {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.age-group {
+    width: 48%;
+    margin-bottom: 50px;
+}
+.exercise {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.exercise h3 {
+    font-size: 24px;
+}
+
+.exercise p {
+    font-size: 16px;
+}
 
 }
 
