@@ -28,17 +28,19 @@ h1, h2, h3 {
         width: 80%;
         min-height: 200px;
         padding-top: 30px;
-        margin: 170px 0 100px 60px;
+        margin: 100px 0 170px 60px;
         
-
+}
+#reasons {
+    position: relative;
+    top: 50px;
 }
 #about-us {
-    background-image: url(../images/baby-and-toys.jpg);
+    background-image: url(../images/homepage.jpg);
     background-color: #BFB1A8;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-origin: padding-box;
     
   }
 #kids-exercising {
@@ -120,6 +122,9 @@ ul li a {
     padding: 15px 0;
     display: flex;
     justify-content: space-evenly;
+    background-color: #fff;
+    position: relative;
+    top: 50px;
    
 }
 .social-icons i {
