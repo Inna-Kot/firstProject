@@ -69,13 +69,6 @@ Users of this website will be able to find information about why it is so impirt
     3. Frequent User Goals
         3.1. As a Frequent User, I want to check if there are any new information/ challenges or any updated news
         3.2. As a Frequent User, I want to subscribe to the website's news, updates and any changes they will have
-## Design
-    1. Favicon. Favicon was created with this website [favicomatic](https://favicomatic.com/) 
-    and photo for favicon was chosen here [vector4free](https://www.vector4free.com/)    
-    2. CONTENT. All content was writted by the developer
-    3. MEDIA. 
-  
-
 
 # Testing
 1. The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project ensure there were no syntax errors in the project.
@@ -114,15 +107,16 @@ Users of this website will be able to find information about why it is so impirt
 1. Thanks to my Mentor for the support and answering all my Questions!
 2. Thanks to tutor support at Code Institute for their support at all stages!
 
-### Content
--   The icons in the footer and in the headings were taken from [Font Awesome](https://fontawesome.com/)   
-The social media links to Facebook and Instagram are the real ones this company is using.
--   The Favicon in the Title of the page was taken from [Favicon](https://favicon.io/emoji-favicons/)
--   I took inspiration from the Love Running project to create the header, footer and contact page.
-### Media
--   The images in the hero section, on the servives page and the contact page was taken from [Pexels](https://www.pexels.com/)
--   The profile picture on the Home page is from my private gallery.
--   The online coaching image on the services page, with pictures of an app, was with permission taken from [Nutrition Data](https://nutritiondata.se/)
+## Design
+    1. Favicon. Favicon was created with this website [favicomatic](https://favicomatic.com/) 
+    and photo for favicon was chosen here [vector4free](https://www.vector4free.com/)    
+    2. CONTENT. All content was writted by the developer.
+    3. The icons in the footer and in the headings were taken from [Font Awesome](https://fontawesome.com/)   
+    4. The social media links to Facebook and Instagram are not real.
+    5. I took inspiration from the Love Running project to create the header, footer and subscribe page.
+    6. The images on all pages was taken from [Pexels](https://www.pexels.com/)
+
+
 
 
        
